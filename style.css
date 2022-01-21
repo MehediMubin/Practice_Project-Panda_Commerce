@@ -1,0 +1,17 @@
+* {
+    font-weight: 600;
+}
+
+.btn {
+    color: whitesmoke;
+    /* background-color: rgb(233, 50, 233); */
+    background-color: hotpink;
+}
+
+.price {
+    color: hotpink
+}
+
+.category-2 {
+    background-color: hotpink;
+}
